@@ -12,10 +12,10 @@ header:
   logo:
     image: "assets/img/logo.png"
     alt: "logo"
-    title: "Terio"
+    title: "RetentionXT"
   button:
-    text: "Get Started"
-    link: "/contact/"
+    text: "Book A Call"
+    link: "https://cal.com/stevenwagner/retentionxt"
 
 ### Social
 social:
@@ -78,11 +78,11 @@ footer:
 portfolio:
   homeNumOfItems: 12
   filters:
-    - name: "Design"
-      slug: "design"
+    - name: "Klaviyo"
+      slug: "Klaviyo"
 
-    - name: "Print"
+    - name: "ReCharge"
       slug: "print"
 
-    - name: "Branding"
-      slug: "branding"
+    - name: "Reporting"
+      slug: "metrics"
