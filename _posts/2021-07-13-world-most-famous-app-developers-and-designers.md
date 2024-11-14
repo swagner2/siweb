@@ -8,7 +8,6 @@ tags:
 category:
   - Development
 ---
-# How to Calculate Your E-commerce Retention Rate: A Step-by-Step Guide
 
 Customer retention is a crucial metric for any e-commerce business, but many entrepreneurs struggle with how to actually calculate it. In this guide, we'll walk through a practical method to measure your retention rate using Klaviyo (though the same principles apply to other platforms).
 
