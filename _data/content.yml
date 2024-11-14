@@ -40,6 +40,34 @@ hero_under:
       subtitle: "Pulvinar risus, vitae facilisis dolor."
       link: "/services/"
       image: "assets/img/serv-u-3.svg"
+      
+### Brands [ brands-two ]
+brands_two:
+  title: "Brands We Work With."
+  items:
+    - title: "Brand"
+      alt: "brand"
+      image: "assets/img/brand-1.png"
+
+    - title: "Brand"
+      alt: "brand"
+      image: "assets/img/brand-2.png"
+
+    - title: "Brand"
+      alt: "brand"
+      image: "assets/img/brand-3.png"
+
+    - title: "Brand"
+      alt: "brand"
+      image: "assets/img/brand-4.png"
+
+    - title: "Brand"
+      alt: "brand"
+      image: "assets/img/brand-5.png"
+
+    - title: "Brand"
+      alt: "brand"
+      image: "assets/img/brand-6.png"
 
 ### About Two [ about-two ]
 about_two:
@@ -58,7 +86,7 @@ about_two:
   button: "More Services"
   link: "/services/"
 
-### Ho it works [ how-it-works ]
+### How it works [ how-it-works ]
 how_it_works:
   subtitle: "How It Works?"
   title: "We Are Strategic- Creative Digital Agency."
